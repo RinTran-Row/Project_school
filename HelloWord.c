@@ -4,6 +4,6 @@ void main()
 {
     printf("Hello world!\n");
     int i;
-    double R;
+    char* c = "DORO";
     return 0;
 }
